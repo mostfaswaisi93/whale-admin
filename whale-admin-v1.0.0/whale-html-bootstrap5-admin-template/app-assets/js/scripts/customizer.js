@@ -2,7 +2,7 @@
   File Name: customizer.js
   Description: Template customizer js.
   ----------------------------------------------------------------------------------------
-  Item Name: Whale  - Vuejs, HTML & Laravel Admin Dashboard Template
+  Item Name: Whale - HTML Admin Dashboard Template
   Author: Pixinvent
   Author URL: hhttp://www.themeforest.net/user/pixinvent
 ==========================================================================================*/

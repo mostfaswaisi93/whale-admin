@@ -2,7 +2,7 @@
     File Name: pagination.js
     Description: Provide pagination links for your site or app with the multi-page pagination component.
     ----------------------------------------------------------------------------------------
-    Item Name: Whale  - Vuejs, HTML & Laravel Admin Dashboard Template
+    Item Name: Whale - HTML Admin Dashboard Template
     Author: Pixinvent
     Author URL: hhttp://www.themeforest.net/user/pixinvent
 ==========================================================================================*/

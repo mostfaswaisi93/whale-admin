@@ -2,7 +2,7 @@
     File Name: dashboard-ecommerce.js
     Description: dashboard ecommerce page content with Apexchart Examples
     ----------------------------------------------------------------------------------------
-    Item Name: Whale  - Vuejs, HTML & Laravel Admin Dashboard Template
+    Item Name: Whale - HTML Admin Dashboard Template
     Author: PIXINVENT
     Author URL: http://www.themeforest.net/user/pixinvent
 ==========================================================================================*/
@@ -60,7 +60,7 @@ $(window).on('load', function () {
   // On load Toast
   setTimeout(function () {
     toastr['success'](
-      'You have successfully logged in to Whale. Now you can start to explore!',
+      'You have successfully logged in to Vuexy. Now you can start to explore!',
       '👋 Welcome John Doe!',
       {
         closeButton: true,

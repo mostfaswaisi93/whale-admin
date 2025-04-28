@@ -2,7 +2,7 @@
         File Name: form-input-mask.js
         Description: Input Masks
         ----------------------------------------------------------------------------------------
-        Item Name: Whale  - Vuejs, HTML & Laravel Admin Dashboard Template
+        Item Name: Whale - HTML Admin Dashboard Template
         Author: Pixinvent
         Author URL: hhttp://www.themeforest.net/user/pixinvent
 ==========================================================================================*/

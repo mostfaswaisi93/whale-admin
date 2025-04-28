@@ -2,7 +2,7 @@
     File Name: app-invoice.js
     Description: app-invoice Javascripts
     ----------------------------------------------------------------------------------------
-    Item Name: Whale  - Vuejs, HTML & Laravel Admin Dashboard Template
+    Item Name: Whale - HTML Admin Dashboard Template
    Version: 1.0
     Author: PIXINVENT
     Author URL: http://www.themeforest.net/user/pixinvent

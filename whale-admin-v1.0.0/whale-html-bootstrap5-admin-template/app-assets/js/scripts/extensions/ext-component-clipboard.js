@@ -2,7 +2,7 @@
     File Name: ext-component-clipboard.js
     Description: Copy to clipboard
     --------------------------------------------------------------------------------------
-    Item Name: Whale  - Vuejs, HTML & Laravel Admin Dashboard Template
+    Item Name: Whale - HTML Admin Dashboard Template
     Author: PIXINVENT
     Author URL: http://www.themeforest.net/user/pixinvent
 ==========================================================================================*/

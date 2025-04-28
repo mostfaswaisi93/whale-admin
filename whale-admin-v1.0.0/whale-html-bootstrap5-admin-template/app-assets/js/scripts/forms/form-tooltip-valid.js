@@ -2,7 +2,7 @@
     File Name: form-tooltip-valid.js
     Description: form tooltip validation etc..
     ----------------------------------------------------------------------------------------
-    Item Name: Whale  - Vuejs, HTML & Laravel Admin Dashboard Template
+    Item Name: Whale - HTML Admin Dashboard Template
     Author: Pixinvent
     Author URL: hhttp://www.themeforest.net/user/pixinvent
 ==========================================================================================*/

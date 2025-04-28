@@ -3,7 +3,7 @@
     Description: Modals are streamlined, but flexible, dialog prompts with the minimum
 				required functionality and smart defaults.
     ----------------------------------------------------------------------------------------
-    Item Name: Whale  - Vuejs, HTML & Laravel Admin Dashboard Template
+    Item Name: Whale - HTML Admin Dashboard Template
     Author: Pixinvent
     Author URL: hhttp://www.themeforest.net/user/pixinvent
 ==========================================================================================*/

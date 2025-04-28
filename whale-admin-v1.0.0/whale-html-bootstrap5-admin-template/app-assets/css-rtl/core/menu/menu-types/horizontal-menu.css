@@ -4,7 +4,7 @@
 	It support light & dark version, flipped layout, right side icons, borders menu for
 	item separation.
 	----------------------------------------------------------------------------------------
-	Item Name: Whale  - Vuejs, HTML & Laravel Admin Dashboard TemplateTheme
+	Item Name: Whale - HTML Admin Dashboard TemplateTheme
 	Author: PIXINVENT
 	Author URL: http://www.themeforest.net/user/pixinvent
 ==========================================================================================*/
@@ -494,7 +494,7 @@
   ));
 }
 
-@media (max-widWhale199.98px) {
+@media (max-width: 1199.98px) {
   .horizontal-layout.navbar-static.footer-hidden .app-content .content-area-wrapper, .horizontal-layout.navbar-static.footer-hidden .app-content .kanban-wrapper {
     height : calc(
     100vh - calc(calc(calc(2rem - 0.8rem) * 2) + 4.45rem + 0rem));
@@ -626,7 +626,7 @@
     light & dark version, filpped layout, right side icons, native scroll and borders menu
     item seperation.
     ----------------------------------------------------------------------------------------
-    Item Name: Whale  - Vuejs, HTML & Laravel Admin Dashboard Template
+    Item Name: Whale - HTML Admin Dashboard Template
     Author: PIXINVENT
     Author URL: http://www.themeforest.net/user/pixinvent
 ==========================================================================================*/

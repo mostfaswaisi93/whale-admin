@@ -2,7 +2,7 @@
     File Name: form-repeater.js
     Description: form repeater page specific js
     ----------------------------------------------------------------------------------------
-    Item Name: Whale HTML Admin Template
+    Item Name: Whale - HTML Admin Dashboard Template
     Version: 1.0
     Author: PIXINVENT
     Author URL: http://www.themeforest.net/user/pixinvent

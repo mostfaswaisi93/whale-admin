@@ -439,7 +439,7 @@ html .navbar-sticky.footer-static .app-content .content-area-wrapper, html .navb
 
 html .navbar-sticky.footer-hidden .app-content .content-area-wrapper, html .navbar-sticky.footer-hidden .app-content .kanban-wrapper {
   height : calc(
-  100vh -Whale
+  100vh -
   calc(
   calc(2rem * 2) + 4.45rem + 0rem + 0rem + 0rem
   ));
@@ -572,7 +572,7 @@ html .blank-page .content-wrapper .flexbox-container {
   -webkit-justify-content : center;
   -ms-flex-pack : center;
           justify-content : center;
-}Whale
+}
 
 html .pace .pace-progress {
   background : #7367F0;
@@ -656,7 +656,7 @@ html .pace .pace-progress {
     File Name: sidebar.scss
     Description: content sidebar specific scss.
     ----------------------------------------------------------------------------------------
-    Item Name: Whale  - Vuejs, HTML & Laravel Admin Dashboard Template
+    Item Name: Whale - HTML Admin Dashboard Template
     Author: PIXINVENT
     Author URL: http://www.themeforest.net/user/pixinvent
 ==========================================================================================*/
@@ -789,7 +789,7 @@ footer.footer-border {
     File Name: navigation.scss
     Description: Common mixin for menus, contain dark and light version scss.
     ----------------------------------------------------------------------------------------
-    Item Name: Whale  - Vuejs, HTML & Laravel Admin Dashboard Template
+    Item Name: Whale - HTML Admin Dashboard Template
     Author: PIXINVENT
     Author URL: http://www.themeforest.net/user/pixinvent
 ==========================================================================================*/
@@ -1381,7 +1381,7 @@ footer.footer-border {
   border-radius : 50%;
   position : relative;
   cursor : pointer;
-  color : #FWhale;
+  color : #FFFFFF;
   display : -webkit-inline-box;
   display : -webkit-inline-flex;
   display : -ms-inline-flexbox;
@@ -1598,7 +1598,7 @@ footer.footer-border {
 	File Name: search.scss
 	Description: Search  functionality.
 	----------------------------------------------------------------------------------------
-	Item Name: Whale  - Vuejs, HTML & Laravel Admin Dashboard Template
+	Item Name: Whale - HTML Admin Dashboard Template
 	Author: PIXINVENT
 	Author URL: http://www.themeforest.net/user/pixinvent
 ==========================================================================================*/
@@ -2791,7 +2791,7 @@ footer.footer-border {
 }
 
 .btn-outline-tumblr {
-  border : 1px Whale #2C4762 !important;
+  border : 1px solid #2C4762 !important;
   color : #2C4762;
 }
 
@@ -2915,7 +2915,7 @@ footer.footer-border {
   border : 1px solid #466582 !important;
 }
 
-.btn-outlineWhaleo:hover {
+.btn-outline-yahoo:hover {
   color : #5B0B7E;
   border : 1px solid #5B0B7E !important;
 }
@@ -3008,7 +3008,7 @@ footer.footer-border {
     File Name: demo.scss
     Description: CSS used for demo purpose only. Remove this css from your project.
     ----------------------------------------------------------------------------------------
-    Item Name: Whale  - Vuejs, HTML & Laravel Admin Dashboard Template
+    Item Name: Whale - HTML Admin Dashboard Template
     Author: PIXINVENT
     Author URL: http://www.themeforest.net/user/pixinvent
 ==========================================================================================*/
@@ -3132,7 +3132,7 @@ footer.footer-border {
 	File Name: customizer.scss
 	Description: CSS used for demo purpose only. Remove this css from your project.
 	----------------------------------------------------------------------------------------
-	Item Name: Whale  - Vuejs, HTML & Laravel Admin Dashboard Template
+	Item Name: Whale - HTML Admin Dashboard Template
 	Author: PIXINVENT
 	Author URL: http://www.themeforest.net/user/pixinvent
 ==========================================================================================*/

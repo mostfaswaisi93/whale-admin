@@ -2,7 +2,7 @@
 	File Name: ext-component-sweet-alerts.js
 	Description: A beautiful replacement for javascript alerts
 	----------------------------------------------------------------------------------------
-	Item Name: Whale  - Vuejs, HTML & Laravel Admin Dashboard Template
+	Item Name: Whale - HTML Admin Dashboard Template
 	Author: Pixinvent
 	Author URL: hhttp://www.themeforest.net/user/pixinvent
 ==========================================================================================*/
